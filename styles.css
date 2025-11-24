@@ -1,1 +1,26 @@
+button{
+    font-size: 16px;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
 
+h1{
+    text-align: center;
+    border: 2px solid black;
+    margin: auto;
+
+}
+.pantalla{
+    width: 280px;
+    height: 60px;
+    font-size: 32px;
+    text-align: right;
+    margin-bottom: 10px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
